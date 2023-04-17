@@ -10,7 +10,7 @@ export default function Logo({ isSticky, footer, ...props }) {
       <span
         style={{
           color: "#56BBD0",
-          fontWeight: "extrabold",
+          fontWeight: "1000",
           fontSize: "1.5rem",
         }}
       >
